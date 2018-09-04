@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss_tutorial",
+  "version": "1.0.0",
+  "description": "Learning tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius023/tailwindcss.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tutorial",
+    "learning"
+  ],
+  "author": "Vinicius Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius023/tailwindcss/issues"
+  },
+  "homepage": "https://github.com/vinicius023/tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^0.6.5"
+  }
+}
